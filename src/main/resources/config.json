@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example",
+    "hostname": "mc.example.com",
+    "port": 25565
+  },
+  {
+    "name": "Example2",
+    "hostname": "mc.example.com",
+    "port": 25566
+  }
+]
